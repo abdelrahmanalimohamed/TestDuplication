@@ -1,0 +1,8 @@
+[
+  { "sourceSystem": "ERP", "sourceCode": "A-1001", "name": "Vacuum 60 cm" },
+  { "sourceSystem": "SAP", "sourceCode": "70045",  "name": "مكنسة ٦٠ سم" },
+  { "sourceSystem": "ERP", "sourceCode": "A-1002", "name": "Vacuum 80 cm" },
+  { "sourceSystem": "ERP", "sourceCode": "A-2001", "name": "Water bottle 1.5 L" },
+  { "sourceSystem": "SAP", "sourceCode": "70101",  "name": "زجاجة ماء ١٫٥ لتر" },
+  { "sourceSystem": "ERP", "sourceCode": "A-3001", "name": "Copy paper A4 80g" }
+]
